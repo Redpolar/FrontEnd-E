@@ -1,0 +1,30 @@
+<style>
+    table{width:600px;
+    empty-cells:hide;
+    border-collapse:separate;}
+    th,td{padding:7px 10px 10px 10px;
+    letter-spacing:0.1em;
+    font-size:90%;
+    border:2px solid #111111;
+    text-align:center}
+    tr:hover{background-color:#c3e6e5;}
+    
+</style>
+
+<table>
+    <tr>
+        <th></th>
+        <th>Saturday</th>
+        <th>Sunday</th>
+    </tr>
+    <tr>
+        <th>销售量</th>
+        <td>120</td>
+        <td>135</td>
+    </tr>
+    <tr>
+        <th>销售量</th>
+        <td>600</td>
+        <td>675</td>
+    </tr>
+</table>
